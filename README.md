@@ -8,4 +8,14 @@ Dataset - https://www.kaggle.com/datasets/unitednations/international-energy-sta
 
 
 
+
+
+
+
 ![output](https://user-images.githubusercontent.com/87689755/197926886-cbd23105-bc24-48d2-9b5f-66fc166f3657.jpg)
+
+
+
+
+![image](https://user-images.githubusercontent.com/87689755/197927022-d706fb26-ce0f-4a38-afd4-3a8ef6175c32.png)
+
